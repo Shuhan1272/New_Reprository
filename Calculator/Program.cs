@@ -8,6 +8,7 @@ namespace Calculator
         {
             Console.WriteLine("This project is for calculator.");
             Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world 2");
         }
     }
 }
