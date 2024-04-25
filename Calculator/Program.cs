@@ -7,6 +7,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("This project is for calculator.");
+            Console.WriteLine("Hello world");
         }
     }
 }
